@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyLedTest</string>
+    <string name="CreateLed_button">Create New Led</string>
+    <string name="ColorPicker_button">Choose rgb with ColorPicker</string>
+    <string name="Color_Green">Green</string>
+    <string name="Color_Red">Red</string>
+    <string name="Color_Blue">Blue</string>
+</resources>
